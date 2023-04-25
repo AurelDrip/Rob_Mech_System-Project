@@ -7,6 +7,8 @@ Alistair WEBSTER,
 Sulayman GAHFOOR,
 Sanjay KUMAR SAGADEVAN SEKAR.
 
+Here is the link for the CAD simulation: https://youtu.be/u93DN0JaCo4
+
 
 
 https://user-images.githubusercontent.com/116892474/234367566-5bbf67ce-43b3-410d-ba95-af103fb551f4.mp4
