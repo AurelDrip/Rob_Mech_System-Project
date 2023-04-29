@@ -15,12 +15,12 @@ https://user-images.githubusercontent.com/116892474/235295381-742bffd1-ac8d-4679
 
 
 Various tests:
-
 https://user-images.githubusercontent.com/116892474/234367566-5bbf67ce-43b3-410d-ba95-af103fb551f4.mp4
 
-
-
+Succion cup:
 https://user-images.githubusercontent.com/116892474/234378905-10a683e6-041b-4275-9cf8-1617c9ec967a.mp4
+
+Succion cup with release:
 https://user-images.githubusercontent.com/116892474/235295368-f5b1d24e-a789-4b61-9122-833ddb3ddd0c.mp4
 
 ![Wired scara](https://user-images.githubusercontent.com/116892474/234380840-80616388-e491-4748-b012-f94ac3a05f9e.jpg)
